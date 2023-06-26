@@ -11,3 +11,9 @@
 .odd#woah {
     font-size: 24px;
 }
+
+#second {
+    background-color: rgb(134, 247, 134);
+    font-size: 24px;
+    font-weight: 700;
+}
